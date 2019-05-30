@@ -1,0 +1,63 @@
+h1{
+  font-family: serif;
+  color:#8aff77
+}
+
+
+.Dogs{
+  width: 50%;
+  float: left;
+  background-color: #57eaab;
+
+}
+.Cats{
+  width: 50%;
+  float: right;
+  background-color: #72d1e5;
+
+}
+img{
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 20px;
+  border-color: #f9d158;
+
+}
+
+h2{
+  font-family: fantasy;
+  color: #ff954e;
+}
+
+.Cats img {
+  border: solid #8aff77 10px;
+}
+
+.Dogs img {
+  border: solid #f9d158 10px;
+}
+
+ul{
+  list-style: none;
+  font-family: monospace;
+  font-size: 30px;
+
+}
+
+.info{
+  font-size: 15px;
+  text-align: center;
+}
+
+.Age{
+  font-size: 10px;
+  text-align: center;
+}
+
+body{
+  margin: 50px;
+  background-color: #f9d158;
+}
